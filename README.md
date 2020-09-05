@@ -1,12 +1,6 @@
 # budget-tracker
 Giving users a fast and easy way to track their money is important, but allowing them to access that information at any time is even more important. Having offline functionality is paramount to the success of an application that handles users’ financial information.
 
-Your challenge this week is to update an existing budget tracker application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online. Once you’ve made these changes, you’ll deploy the application to Heroku.
-
-Web developers rarely have all the information they need when working on a feature request or trying to kill a bug. To be a successful developer, you must be able to formulate a solution by synthesizing knowledge that you’ve picked up from previous experience.
-
-This Challenge will ask you to combine several new skills that you’ve learned in this module and the previous one to add offline functionality to an existing application. The upcoming section called Getting Started outlines how you can achieve this goal.
-
 AS AN avid traveler
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
 SO THAT my account balance is accurate when I am traveling 
