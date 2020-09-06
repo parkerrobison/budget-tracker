@@ -1,13 +1,8 @@
-// const APP_PREFIX = "Budget-tracker";
-// const VERSION = "version_01";
-// const CACHE_NAME = APP_PREFIX + VERSION;
-
 const CACHE_NAME = 'Budget_tracker';
 const DATA_CACHE_NAME = 'data-cache-v2';
 
 const FILES_TO_CACHE = [
   "/",
-  // "/index.html",
   "/manifest.webmanifest",
   "/js/idb.js",
   "/js/index.js",
