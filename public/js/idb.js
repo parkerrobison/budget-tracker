@@ -17,7 +17,6 @@ request.onsuccess = function (event) {
 
     // check if app is online, 
     if (navigator.onLine) {
-        // we haven't created this yet, but we will soon, so let's comment it out for now
         uploadBalance();
     }
 };
@@ -37,6 +36,8 @@ function saveRecord(record) {
 
     // add record to your store with add method
     balanceObjectStore.add(record);
+
+    alert('It seems that you aren\'t connected to the internet. Your new transaction will be saved and uploaded when the this device is connected to the internet again');
 }
 
 function uploadBalance() {
