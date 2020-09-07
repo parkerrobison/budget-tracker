@@ -17,7 +17,7 @@
 
   ## Installation
   
-  No steps for installation are required. Visit the apllication's website to start using budget-tracker. If you'd like to install the PWA on your computer/mobile device simply click on the plus sign in the top right of the url search bar (if you are using google chrome)
+  No steps for installation are required. Visit the apllication's website, https://serene-hollows-88584.herokuapp.com/, to start using budget-tracker. If you'd like to install the PWA on your computer/mobile device simply click on the plus sign in the top right of the url search bar (if you are using google chrome)
   
   ## Usage 
 
