@@ -25,7 +25,7 @@
   
   ## Credits
   
-  Starter code was created by <placeholder>
+  Starter code was created by Xander Rapstine: https://github.com/Xandromus
    
   ## License
 
